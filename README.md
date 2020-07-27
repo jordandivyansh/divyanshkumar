@@ -5,4 +5,4 @@
 - CSS
 - JavaScript
 
-#### [Divyansh Kumar](https://jordandivyansh.github.io/divyanshkumar)
+#### [Divyansh Kumar](https://www.linkedin.com/in/divyanshkumar)
