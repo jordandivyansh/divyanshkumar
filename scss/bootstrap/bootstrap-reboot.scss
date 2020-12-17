@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*!
  * Bootstrap Reboot v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -10,3 +11,17 @@
 @import "variables";
 @import "mixins";
 @import "reboot";
+=======
+/*!
+ * Bootstrap Reboot v4.3.1 (https://getbootstrap.com/)
+ * Copyright 2011-2019 The Bootstrap Authors
+ * Copyright 2011-2019 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Forked from Normalize.css, licensed MIT (https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
+ */
+
+@import "functions";
+@import "variables";
+@import "mixins";
+@import "reboot";
+>>>>>>> fddab4a6eb701b8d1ac4f54fc1c119d6603792f7

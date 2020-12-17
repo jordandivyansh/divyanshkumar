@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @mixin clearfix() {
   &::after {
     display: block;
@@ -5,3 +6,12 @@
     content: "";
   }
 }
+=======
+@mixin clearfix() {
+  &::after {
+    display: block;
+    clear: both;
+    content: "";
+  }
+}
+>>>>>>> fddab4a6eb701b8d1ac4f54fc1c119d6603792f7
