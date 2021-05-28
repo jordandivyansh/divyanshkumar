@@ -2,7 +2,7 @@
 
 ### Built and Designed Using
 - HTML
-- CSS
+- CSS with Bootstrap
 - JavaScript
 - jQuery
 
